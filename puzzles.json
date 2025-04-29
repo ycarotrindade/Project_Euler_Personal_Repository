@@ -1,0 +1,12 @@
+[
+    {
+        "name":"Summation_of_Primes",
+        "python":"https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/10_001st_Prime/Python",
+        "golang":"https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/10_001st_Prime/Golang"
+    },
+    {
+        "name":"Even_Fibonacci_Numbers",
+        "python":"https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Even_Fibonacci_Numbers/Python",
+        "golang":"https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Even_Fibonacci_Numbers/Golang"
+    }
+]
