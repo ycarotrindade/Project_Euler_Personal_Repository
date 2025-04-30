@@ -5,16 +5,6 @@
         "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/10_001st_Prime/Golang"
     },
     {
-        "name": ".github",
-        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/.github/Python",
-        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/.github/Golang"
-    },
-    {
-        "name": ".git",
-        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/.git/Python",
-        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/.git/Golang"
-    },
-    {
         "name": "Largest_Palindrome_Product",
         "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Largest_Palindrome_Product/Python",
         "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Largest_Palindrome_Product/Golang"
