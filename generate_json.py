@@ -6,7 +6,7 @@ output = []
 
 for folder in os.listdir(ROOT):
     folder_path = os.path.join(ROOT, folder)
-    if os.path.isdir(folder_path):
+    if os.path.isdir(folder_path) and folder not in [".git",".github",".gitignore"]:
         entry = {
             "name": folder.replace(" ", "_"),
             "python": f"https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/{folder}/Python",
