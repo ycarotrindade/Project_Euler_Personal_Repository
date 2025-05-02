@@ -6,11 +6,15 @@
     <link rel="stylesheet" href="style.css">
     <title>Euler puzzles</title>
 </head>
-<body>
+<body onload="filter_data()">
     <div id="main-content">
         <div id="header">
             <h1>Welcome to my Project Euler Solutions</h1>
         </div>
+        <div id="search-box">
+            <input type="text" name="searchBar" id="serchBar" oninput="filter_data(this)">
+        </div>
+        <br>
         <div id="problems-table">
             <table id="problems-table-table">
                 <tr>

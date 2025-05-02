@@ -6,6 +6,26 @@
 }
 
 table, th, td{
-    border: 1px solid black;
+    border: 1px solid #fb047b;
     border-collapse: collapse;
+}
+
+body{
+    background-color: black;
+    color: #fb047b;
+}
+
+a{
+    text-decoration: none;
+    color: #fb047b;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #7c0444;
+}
+
+input{
+    background-color: #fc7cba;
+    outline: invert;
 }

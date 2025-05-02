@@ -1,12 +1,52 @@
 [
     {
-        "name":"Summation_of_Primes",
-        "python":"https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/10_001st_Prime/Python",
-        "golang":"https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/10_001st_Prime/Golang"
+        "name": "10_001st_Prime",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/10_001st_Prime/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/10_001st_Prime/Golang"
     },
     {
-        "name":"Even_Fibonacci_Numbers",
-        "python":"https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Even_Fibonacci_Numbers/Python",
-        "golang":"https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Even_Fibonacci_Numbers/Golang"
+        "name": "Largest_Palindrome_Product",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Largest_Palindrome_Product/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Largest_Palindrome_Product/Golang"
+    },
+    {
+        "name": "Summation_of_Primes",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Summation_of_Primes/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Summation_of_Primes/Golang"
+    },
+    {
+        "name": "Largest_Prime_Factor",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Largest_Prime_Factor/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Largest_Prime_Factor/Golang"
+    },
+    {
+        "name": "Even_Fibonacci_Numbers",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Even_Fibonacci_Numbers/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Even_Fibonacci_Numbers/Golang"
+    },
+    {
+        "name": "Smallest_Multiple",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Smallest_Multiple/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Smallest_Multiple/Golang"
+    },
+    {
+        "name": "Special_Pythagorean_Triplet",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Special_Pythagorean_Triplet/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Special_Pythagorean_Triplet/Golang"
+    },
+    {
+        "name": "Largest_Product_in_a_Series",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Largest_Product_in_a_Series/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Largest_Product_in_a_Series/Golang"
+    },
+    {
+        "name": "Sum_Square_Difference",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Sum_Square_Difference/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Sum_Square_Difference/Golang"
+    },
+    {
+        "name": "Multiples_of_3_or_5",
+        "python": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Multiples_of_3_or_5/Python",
+        "golang": "https://github.com/ycarotrindade/Project_Euler_Personal_Repository/tree/main/Multiples_of_3_or_5/Golang"
     }
 ]
