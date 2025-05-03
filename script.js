@@ -25,8 +25,8 @@ function filter_data(e){
                     const row = document.createElement("tr")
                     row.innerHTML = `
                     <td>${puzzle.name}</td>
-                    <td><a href="${puzzle.python}">link</a></td>
-                    <td><a href="${puzzle.golang}">link</td>
+                    <td><a href="${puzzle.python}" target="_blank">link</a></td>
+                    <td><a href="${puzzle.golang}" target="_blank">link</td>
                     `
                     table.appendChild(row)
                 }
