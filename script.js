@@ -10,7 +10,7 @@ function filter_data(e){
                 row.innerHTML = `
                 <td>${puzzle.name}</td>
                 <td><a href="${puzzle.python}" target="_blank">link</a></td>
-                <td><a href="${puzzle.golang}" target="_blank">link</td>
+                <td><a href="${puzzle.golang}" target="_blank">link</a></td>
                 `
                 table.appendChild(row)
             })
@@ -26,7 +26,7 @@ function filter_data(e){
                     row.innerHTML = `
                     <td>${puzzle.name}</td>
                     <td><a href="${puzzle.python}" target="_blank">link</a></td>
-                    <td><a href="${puzzle.golang}" target="_blank">link</td>
+                    <td><a href="${puzzle.golang}" target="_blank">link</a></td>
                     `
                     table.appendChild(row)
                 }
